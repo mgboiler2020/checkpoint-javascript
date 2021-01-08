@@ -25,7 +25,11 @@ for (i =0; i<foods.length; i++) {
 
 // #5: Create an object literal called `instructor` that contains three key-value pairs.
 // Type your solution immediately below this line:
-
+var instructor = {
+    lastname:"smith", 
+    height:7, 
+    weight:180
+},
 
 
 // #6: Add a `has-office-hours` (spelled exactly) property to `instructor` by accessing
