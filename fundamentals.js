@@ -2,7 +2,11 @@
 
 // #1: Create an array of strings called `foods` that contains three foods.
 // Type your solution immediately below this line:
+// var meat = x;
+// var cheese = y;
+// var potato = z;    
 
+var foods = ["cheese", "meat", "potato"];
 
 // #2: Access the last item in the array and assign to a variable called `last`.
 // Type your solution immediately below this line:
